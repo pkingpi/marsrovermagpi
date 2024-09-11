@@ -1,2 +1,2 @@
 # marsrovermagpi
-Code for MARS Rover tutorial in The MagPi 146
+Code for the MARS Rover tutorial in The MagPi magaazine issue 146. https://magpi.raspberrypi.com/
